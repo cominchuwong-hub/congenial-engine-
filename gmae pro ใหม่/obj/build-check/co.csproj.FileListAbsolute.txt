@@ -1,0 +1,14 @@
+F:\gmae pro ใหม่\build-check\co.exe
+F:\gmae pro ใหม่\build-check\co.deps.json
+F:\gmae pro ใหม่\build-check\co.runtimeconfig.json
+F:\gmae pro ใหม่\build-check\co.dll
+F:\gmae pro ใหม่\build-check\co.pdb
+F:\gmae pro ใหม่\obj\build-check\co.GeneratedMSBuildEditorConfig.editorconfig
+F:\gmae pro ใหม่\obj\build-check\co.AssemblyInfoInputs.cache
+F:\gmae pro ใหม่\obj\build-check\co.AssemblyInfo.cs
+F:\gmae pro ใหม่\obj\build-check\co.csproj.CoreCompileInputs.cache
+F:\gmae pro ใหม่\obj\build-check\co.dll
+F:\gmae pro ใหม่\obj\build-check\refint\co.dll
+F:\gmae pro ใหม่\obj\build-check\co.pdb
+F:\gmae pro ใหม่\obj\build-check\co.genruntimeconfig.cache
+F:\gmae pro ใหม่\obj\build-check\ref\co.dll

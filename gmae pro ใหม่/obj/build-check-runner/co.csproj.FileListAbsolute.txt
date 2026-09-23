@@ -1,0 +1,14 @@
+F:\gmae pro ใหม่\obj\build-check-runner\co.GeneratedMSBuildEditorConfig.editorconfig
+F:\gmae pro ใหม่\obj\build-check-runner\co.AssemblyInfoInputs.cache
+F:\gmae pro ใหม่\obj\build-check-runner\co.AssemblyInfo.cs
+F:\gmae pro ใหม่\obj\build-check-runner\co.csproj.CoreCompileInputs.cache
+F:\gmae pro ใหม่\build-check-runner\co.exe
+F:\gmae pro ใหม่\build-check-runner\co.deps.json
+F:\gmae pro ใหม่\build-check-runner\co.runtimeconfig.json
+F:\gmae pro ใหม่\build-check-runner\co.dll
+F:\gmae pro ใหม่\build-check-runner\co.pdb
+F:\gmae pro ใหม่\obj\build-check-runner\co.dll
+F:\gmae pro ใหม่\obj\build-check-runner\refint\co.dll
+F:\gmae pro ใหม่\obj\build-check-runner\co.pdb
+F:\gmae pro ใหม่\obj\build-check-runner\co.genruntimeconfig.cache
+F:\gmae pro ใหม่\obj\build-check-runner\ref\co.dll
